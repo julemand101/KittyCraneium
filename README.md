@@ -9,4 +9,4 @@ program.
 
 The /src directory contains the compiler itself, The compiler takes
 KittyCraneium code and compile it into Java code there can later be compiled
-to a LEGO NXT device running [http://lejos.sourceforge.net/]{LeJOS NXJ}.
+to a LEGO NXT device running [LeJOS NXJ](http://lejos.sourceforge.net/).
